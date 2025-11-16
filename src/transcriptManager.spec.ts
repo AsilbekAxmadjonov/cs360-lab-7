@@ -1,5 +1,5 @@
 import * as db from './transcriptManager';
-import { addStudent, StudentID } from './transcriptManager';
+import { addStudent } from './transcriptManager';
 
 describe('Testing addStudent() method', () => {
   beforeEach(() => {
